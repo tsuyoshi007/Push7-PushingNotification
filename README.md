@@ -21,11 +21,14 @@ You also need :
 * URL = [string][1]
 
 **Instal requirement package**
+```
 npm install
+```
 
 ## Running the tests
-
+```
 npm start
+```
 
 ### And coding style tests
 
