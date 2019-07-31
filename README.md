@@ -6,7 +6,7 @@
 
 **How to get apiKey and appNumber**
 
-https://raw.githubusercontent.com/tsuyoshi007/Push7-PushingNotification/master/img/Screenshot_1.png
+![image](https://raw.githubusercontent.com/tsuyoshi007/Push7-PushingNotification/master/img/Screenshot_1.png)
 
 You also need :
   -**node-push7**
