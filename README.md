@@ -15,10 +15,10 @@ You also need :
 ### Installing
 
 **.env File**
-APP_NUMBER = [string][1]
-API_KEY = [string][1]
-ICON = [string][1]
-URL = [string][1]
+* APP_NUMBER = [string][1]
+* API_KEY = [string][1]
+* ICON = [string][1]
+* URL = [string][1]
 
 **Instal requirement package**
 npm install
