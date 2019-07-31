@@ -14,6 +14,13 @@ You also need :
 
 ### Installing
 
+**.env File**
+APP_NUMBER = [string][1]
+API_KEY = [string][1]
+ICON = [string][1]
+URL = [string][1]
+
+**Instal requirement package**
 npm install
 
 ## Running the tests
@@ -34,3 +41,5 @@ semistandard --fix
 ## Authors
 
 * **Hun Vikran** 
+
+[1]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String
