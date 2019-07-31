@@ -1,0 +1,17 @@
+{
+  "name": "push7-nof",
+  "version": "1.0.0",
+  "description": "**Getting Application Key and User Token**\r Before you use these system, please go to https://trello.com/app-key and get the application key and user token.",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "node-push7": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Hun Vikran",
+  "license": "ISC"
+}
